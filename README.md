@@ -37,6 +37,7 @@ Atualmente estou trabalhando principalmente em:
 ## Contato
 
 - LinkedIn: [[Diogo Zarpelão](https://www.linkedin.com/in/diogo-zarpel%C3%A3o-918935433/)]
+- E-mail profissional: diogozarpelao@gmail.com
 
 <!--
 **diogozarpelo/diogozarpelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
