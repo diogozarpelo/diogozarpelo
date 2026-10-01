@@ -1,6 +1,6 @@
 # Olá, eu sou o Diogo 👋
 
-Sou Desenvolvedor de Software Júnior, com foco em desenvolvimento web e interesse também em desenvolvimento mobile, principalmente Android.
+Sou Desenvolvedor Web/Software Júnior, com foco em desenvolvimento web e interesse também em desenvolvimento mobile, principalmente Android.
 
 Atualmente trabalho com projetos freelance e clientes reais, além de desenvolver projetos próprios para continuar evoluindo na área.
 
