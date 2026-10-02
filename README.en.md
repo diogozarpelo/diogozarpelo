@@ -1,6 +1,11 @@
 # Hi, I'm Diogo 👋
 
-[Português](README.md) | **English**
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Portugu%C3%AAs-Open-64748B?style=for-the-badge" alt="Open Portuguese version">
+  </a>
+  <img src="https://img.shields.io/badge/English-Active-2E7D32?style=for-the-badge" alt="English — active language">
+</p>
 
 <p align="center">
   Junior Web/Software Developer · Web and Android projects · Game development and recompilation
