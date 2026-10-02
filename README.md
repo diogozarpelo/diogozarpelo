@@ -1,5 +1,7 @@
 # Olá, eu sou o Diogo 👋
 
+**Português** | [English](README.en.md)
+
 <p align="center">
   Desenvolvedor Web/Software Júnior · Projetos web e Android · Desenvolvimento de games e recompilação de jogos
 </p>
